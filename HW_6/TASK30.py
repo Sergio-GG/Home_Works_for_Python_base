@@ -11,5 +11,5 @@ n = int(input("Введите количество элементов: "))
 array = []
 for i in range(n):
     array.append(a)
-    a += 2
+    a += diff
 print(*array)
