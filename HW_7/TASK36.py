@@ -1,4 +1,5 @@
 # Задача 36. Вывести таблицу с помощью функции высшего порядка.
+# Написать функцию print_operation_table()
 
 
 def print_operation_table(operator, num_rows, num_columns):
